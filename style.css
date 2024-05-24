@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+ol,
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(23, 22, 104);
+}
+
+
+body{
+    background-color: rgb(231, 231, 221);
+    margin: 0%;
+}
+header{
+    display: flex;
+    background-color: rgb(176, 178, 179);
+    align-items: center;
+    justify-content: space-between;
+    width: 100rem;
+    border: 2px solid black;
+}
+
+main{
+    display: flex;
+    image-orientation: inherit;
+    position: s
+    static;
+}
+
+.div
+
+
+nav ul{
+    display: flex;
+    gap: 3em;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    gap: 10em;
+}
+
+header a i{
+    color: rgb(21, 19, 107);
+    display: flex;
+    justify-content: left;
+    font-size: 3em;
+}
